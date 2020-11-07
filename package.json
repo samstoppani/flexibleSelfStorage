@@ -1,0 +1,16 @@
+{
+  "name": "flexible_self_storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "homepage": "https://samstoppani.github.io/flexibleSelfStorage"
+
+}
